@@ -1,4 +1,22 @@
+*{
+    background-color:;
+}
+div{
+    background-color: black;
+}
 .intro{
     text-align: center;
     font-family: Verdana, Geneva, Tahoma, sans-serif;
+    font-style: initial;
+    color: white;
+    font-size: 35px;
+    
+    
+}
+.sub-intro{
+    text-align: center;
+    color: white;
+    font-weight: bolder;
+    font-size: 20px;
+    font-style: italic;
 }
