@@ -1,9 +1,11 @@
 * {
-    background-color: ;
+    padding: 0px;
+    margin: 0px;
 }
 
 #first {
     background-color: black;
+    margin: 5px;
 }
 
 .intro {
